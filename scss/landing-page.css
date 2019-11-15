@@ -104,4 +104,17 @@ a:hover {
   background-color: #96734B;
   border-color: #96734B; }
 
+.btn-block {
+  width: auto;
+  margin: 0 auto; }
+
+.btn {
+  border-radius: 2px; }
+
+.btn-lg {
+  border-radius: 4px; }
+
+.text-primary {
+  color: #C8A277 !important; }
+
 /*# sourceMappingURL=landing-page.css.map */

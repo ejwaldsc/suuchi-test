@@ -14,5 +14,14 @@ a:hover {
   background-color: #96734B;
   border-color: #96734B;
 }
-
+.btn-block {
+  width: auto;
+  margin: 0 auto;
+}
+.btn {
+  border-radius: $border-radius
+}
+.btn-lg {
+  border-radius: $border-radius-lg
+}
 
